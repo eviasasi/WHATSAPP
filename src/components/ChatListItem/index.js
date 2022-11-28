@@ -38,7 +38,7 @@ const styles= StyleSheet.create ({
        
     },
     image: {
-        width: 50, 
+        width: 60, 
         height: 50,
         borderRadius: 30,
         marginRight: 5, 
@@ -51,7 +51,7 @@ const styles= StyleSheet.create ({
     },
     row:{
         flexDirection:'row',
-        marginBottom: 5,
+        marginBottom: 10,
     },
     name:{
         flex: 1,
